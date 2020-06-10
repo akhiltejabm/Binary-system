@@ -1,4 +1,4 @@
-#### 1.  What is the Decimal equivalent of (​11110000101010101​)2?
+1.  What is the Decimal equivalent of (​11110000101010101​)2?
 ```
 1 * 2^16 = 65536
 1 * 2^15 = 32768
@@ -20,7 +20,8 @@
 Total    = 123221
 Decimal equivalent of (​11110000101010101​)2 = (123221)10    
 ```
-#### 2. What is the Hexadecimal equivalent of (98899910)​10 ?
+
+2. What is the Hexadecimal equivalent of (98899910)​10 ?
 ```
 Dividing with 16
         	98899910
